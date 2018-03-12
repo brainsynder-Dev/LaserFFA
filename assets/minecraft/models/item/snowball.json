@@ -1,0 +1,42 @@
+{
+	"__comment": "Designed by Niestrat99 with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"texture": "blocks/redstone_block",
+		"particle": "blocks/redstone_block"
+	},
+	"elements": [
+		{
+			"__comment": "Cube1",
+			"from": [ 7.5, 0, 4.5 ],
+			"to": [ 8.5, 1, 11.5 ],
+			"faces": {
+				"down": { "uv": [ 7.5, 4.5, 8.5, 11.5 ], "texture": "#texture" },
+				"up": { "uv": [ 7.5, 4.5, 8.5, 11.5 ], "texture": "#texture" },
+				"north": { "uv": [ 7.5, 15, 8.5, 16 ], "texture": "#texture" },
+				"south": { "uv": [ 7.5, 15, 8.5, 16 ], "texture": "#texture" },
+				"west": { "uv": [ 4.5, 15, 11.5, 16 ], "texture": "#texture" },
+				"east": { "uv": [ 4.5, 15, 11.5, 16 ], "texture": "#texture" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ -90, 0, 0 ],
+			"translation":  [ 0, 4.6954, -5.565 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ -90, 0, 0 ],
+			"translation":  [ 0, 4.6954, -5.565 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 0, -90, 25 ],
+			"translation":  [ 1.13, 3.2, 1.13 ],
+			"scale":  [ 0.68, 0.68, 0.68 ]
+		},
+		"fixed": {
+			"rotation":  [ 0, 90, 0 ],
+			"translation":  [ -0.695, 15.303, 0.6956 ],
+			"scale":  [ 2, 2, 2 ]
+		}
+	}
+}
