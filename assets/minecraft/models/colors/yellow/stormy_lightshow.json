@@ -1,0 +1,6 @@
+{
+	"parent": "item/stormy_lightshow",
+	"textures": {
+		"ColorTexture": "blocks/concrete_yellow"
+	}
+}

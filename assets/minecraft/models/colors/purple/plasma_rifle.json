@@ -1,0 +1,6 @@
+{
+	"parent": "item/plasma_rifle",
+	"textures": {
+		"ColorTexture": "blocks/concrete_purple"
+	}
+}

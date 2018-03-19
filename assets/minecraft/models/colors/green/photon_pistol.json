@@ -1,0 +1,6 @@
+{
+	"parent": "item/photon_pistol",
+	"textures": {
+		"ColorTexture": "blocks/concrete_green"
+	}
+}

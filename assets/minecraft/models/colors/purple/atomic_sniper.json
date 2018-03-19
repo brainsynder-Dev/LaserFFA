@@ -1,0 +1,6 @@
+{
+	"parent": "item/atomic_sniper",
+	"textures": {
+		"ColorTexture": "blocks/concrete_purple"
+	}
+}

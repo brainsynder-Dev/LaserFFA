@@ -1,11 +1,11 @@
 {
   "pack": {
     "pack_format": 3,
-    "description": "§3§lLaserFFA 3D Models §b§lgithub.com/brainsynder-Dev/LaserFFA"
+    "description": "§3§lLaserFFA 3D Models"
   },
   "meta": {
     "pack_type": 3,
-    "pack_version": "0.1",
+    "pack_version": "0.2",
     "description": "LaserFFA",
     "consists": "3D gun and item models for LaserFFA"
   }

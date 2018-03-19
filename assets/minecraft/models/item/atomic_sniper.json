@@ -1,12 +1,13 @@
 {
-    "ambientocclusion": false,
+	"__comment": "Designed by Niestrat",
+	"ambientocclusion": false,
 	"textures": {
 		"Glass": "blocks/glass",
-		"Base": "blocks/anvil_base",
-		"ColorTexture": "blocks/quartz_block_top",
-		"particle": "blocks/coal_block"
+		"Base": "blocks/concrete_black",
+		"ColorTexture": "blocks/concrete_white",
+		"particle": "blocks/concrete_black"
 	},
-	"elements": [
+	"elements": [ 	 
 		{
 			"__comment": "Cube1",
 			"from": [ 7.5, 0, 11 ],
@@ -440,8 +441,9 @@
 			"translation":  [ -2.086, 6.9565, 0 ]
 		},
 		"gui": {
-			"rotation":  [ 30, 225, 0 ],
-			"translation":  [ 0, 2.0869, 0 ]
+			"rotation":  [ 3, 132, -3 ],
+			"translation":  [ 0, 2.0869, 0 ],
+			"scale":  [ 0.8, 0.8, 0.8 ]
 		},
 		"head": {
 			"translation":  [ 0, -2.086, -4.173 ]
